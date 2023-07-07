@@ -1,8 +1,8 @@
 # api_testing_pytest
-Testing an API with PyTest
+Testing an Kanban API with PyTest
 
 Assignment:
-Test the API endpoint with the following conditions:
+Test the API endpoints with the following conditions:
 
 1) First task test the following actions:
 - Make a new board
